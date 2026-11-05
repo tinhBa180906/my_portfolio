@@ -25,5 +25,3 @@ Dự án được xây dựng dựa trên các công nghệ hiện đại nhằm
 - **Số điện thoại:** 0961806490
 - **GitHub:** [tinhBa180906](https://github.com/tinhBa180906)
 
----
-*Được phát triển với tình yêu và đam mê mãnh liệt dành cho công nghệ! ❤️*
